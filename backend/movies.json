@@ -3,21 +3,350 @@
     "id": 1,
     "title": "The Matrix",
     "description": "A computer hacker learns about the true nature of his reality.",
-    "poster": "https://m.media-amazon.com/images/I/51EG732BV3L.jpg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
     "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "id": 2,
     "title": "Inception",
     "description": "A thief who steals corporate secrets through dream-sharing technology.",
-    "poster": "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SY679_.jpg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
     "videoUrl": "https://www.w3schools.com/html/movie.mp4"
   },
   {
     "id": 3,
     "title": "Interstellar",
     "description": "A team of explorers travel through a wormhole in space.",
-    "poster": "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_SY679_.jpg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "description": "When the menace known as the Joker wreaks havoc on Gotham City.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 5,
+    "title": "Pulp Fiction",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife intertwine.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 6,
+    "title": "Fight Club",
+    "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 7,
+    "title": "Forrest Gump",
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 8,
+    "title": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 9,
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control to his reluctant son.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 10,
+    "title": "The Lord of the Rings",
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzM4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 11,
+    "title": "The Silence of the Lambs",
+    "description": "A young FBI cadet must receive the help of an incarcerated cannibal killer.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 12,
+    "title": "The Good, the Bad and the Ugly",
+    "description": "A bounty hunting scam joins two men in an uneasy alliance against a third.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjU5MDQ@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 13,
+    "title": "The Usual Suspects",
+    "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLTVmNzUtNDYxZDA4Nzk5NzlkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 14,
+    "title": "Schindler's List",
+    "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 15,
+    "title": "The Green Mile",
+    "description": "The lives of guards on Death Row are affected by one of their charges.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 16,
+    "title": "The Prestige",
+    "description": "Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 17,
+    "title": "The Departed",
+    "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 18,
+    "title": "The Social Network",
+    "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGUyZDUxZjEtMmIzMC00MzlmLTg4MGItZWJmMzBhZjE0Mjc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 19,
+    "title": "The Shining",
+    "description": "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1YzY1OTBlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 20,
+    "title": "The Grand Budapest Hotel",
+    "description": "The adventures of Gustave H, a legendary concierge at a famous European hotel between the wars.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 21,
+    "title": "The Big Lebowski",
+    "description": "Jeff 'The Dude' Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 22,
+    "title": "The Truman Show",
+    "description": "An insurance salesman discovers his whole life is actually a reality TV show.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 23,
+    "title": "The Sixth Sense",
+    "description": "A boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNWU5Ni00YzQwLGFkMGMtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 24,
+    "title": "The Lion King",
+    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 25,
+    "title": "The Avengers",
+    "description": "Earth's mightiest heroes must come together and learn to fight as a team.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 26,
+    "title": "The Wolf of Wall Street",
+    "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker to his fall.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 27,
+    "title": "The Revenant",
+    "description": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtNjUxZS00Nzc5LTg4N2EtOTE3MmI5OGUzN2Y0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 28,
+    "title": "The Martian",
+    "description": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 29,
+    "title": "The Imitation Game",
+    "description": "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgwMzFiMWYtZDhlNS00ODNkLWJiODAtZDVhNzgyNzJhMjU0XkEyXkFqcGdeQXVyNzEzOTYxNTQ@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 30,
+    "title": "The Theory of Everything",
+    "description": "The story of the relationship between the famous physicist Stephen Hawking and his wife.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 31,
+    "title": "The Great Gatsby",
+    "description": "A writer and wall street trader, Nick, finds himself drawn to the past and lifestyle of his millionaire neighbor.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMxMTQ3MjM5MF5BMl5BanBnXkFtZTcwNTI4NzExOQ@@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 32,
+    "title": "The Hunger Games",
+    "description": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 33,
+    "title": "The Fault in Our Stars",
+    "description": "Two teenage cancer patients begin a life-affirming journey to visit a reclusive author in Amsterdam.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NzkxNzc5Ml5BMl5BanBnXkFtZTgwNzQ0OTQxMDE@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 34,
+    "title": "The Perks of Being a Wallflower",
+    "description": "An introvert freshman is taken under the wings of two seniors who welcome him to the real world.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzIxOTQyODU1OV5BMl5BanBnXkFtZTcwMjM0MjEzOQ@@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 35,
+    "title": "The Secret Life of Walter Mitty",
+    "description": "When his job along with that of his co-worker are threatened, Walter takes action in the real world.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYxNzg2NDg0Ml5BMl5BanBnXkFtZTgwNzkzNTkzMTE@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 36,
+    "title": "The Intern",
+    "description": "70-year-old widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1NDMxMjM0NF5BMl5BanBnXkFtZTgwNzA5OTU2NjE@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 37,
+    "title": "The Notebook",
+    "description": "A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3OTM5Njg5M15BMl5BanBnXkFtZTYwMzA0ODI3._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 38,
+    "title": "The Help",
+    "description": "An aspiring author during the civil rights movement of the 1960s decides to write a book.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 39,
+    "title": "The Pursuit of Happyness",
+    "description": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 40,
+    "title": "The Blind Side",
+    "description": "The story of Michael Oher, a homeless and traumatized boy who became an All American football player.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 41,
+    "title": "The King's Speech",
+    "description": "The story of King George VI, his impromptu ascension to the throne and the speech therapist who helped him.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MjY4NA@@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 42,
+    "title": "The Artist",
+    "description": "A silent movie star meets a young dancer, but the arrival of talking pictures sends their careers in opposite directions.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzk0NzQxNzc5Ml5BMl5BanBnXkFtZTcwMzU4MDYyNQ@@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 43,
+    "title": "The Descendants",
+    "description": "A land baron tries to re-connect with his two daughters after his wife suffers a boating accident.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5MzY0MzY4MF5BMl5BanBnXkFtZTcwMzkzOTk0Nw@@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 44,
+    "title": "The Fighter",
+    "description": "The story of boxer 'Irish' Micky Ward's unlikely road to the world light welterweight title.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTcwMTM5MjA5Nw@@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 45,
+    "title": "The Town",
+    "description": "A proficient group of thieves rob a bank and hold an assistant manager hostage.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM5MjA5MjAyNV5BMl5BanBnXkFtZTcwMTM5MjA5Nw@@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 46,
+    "title": "The Social Network",
+    "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGUyZDUxZjEtMmIzMC00MzlmLTg4MGItZWJmMzBhZjE0Mjc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 47,
+    "title": "The Hangover",
+    "description": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGQwZjg5YmYtY2VkNC00NzliLTljYTctNzI5NmU3MjE2ODQzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 48,
+    "title": "The Proposal",
+    "description": "A pushy boss forces her young assistant to marry her in order to keep her visa status in the U.S.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGM5YTNiYzktNmEwZC00ZjE5LWIyNzEtOTUwNDE0NmVkYzE3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 49,
+    "title": "The Curious Case of Benjamin Button",
+    "description": "Tells the story of Benjamin Button, a man who starts aging backwards with consequences.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTcwNzA2NTY2OQ@@._V1_.jpg",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 50,
+    "title": "The Dark Knight Rises",
+    "description": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
     "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
   }
 ] 

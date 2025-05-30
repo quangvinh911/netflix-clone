@@ -7,6 +7,7 @@ const app = express();
 const PORT = 5000;
 
 app.use(cors());
+app.use(express.json());
 
 // Get all movies
 app.get('/api/movies', (req, res) => {

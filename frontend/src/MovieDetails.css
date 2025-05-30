@@ -61,4 +61,32 @@ video {
   border-radius: 0.5vw;
   background: #000;
   box-shadow: 0 4px 24px 0 rgba(0,0,0,0.6);
+}
+
+.movie-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.favorite-btn {
+  background: none;
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+  color: #ccc;
+  transition: color 0.3s ease;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.favorite-btn:hover {
+  color: #ffd700;
+}
+
+.favorite-btn.favorite-active {
+  color: #ffd700;
 } 
